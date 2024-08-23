@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sippakorn.sippbot.io/sitemap.xml
+Sitemap: https://sippakorn.github.io/sitemap.xml
