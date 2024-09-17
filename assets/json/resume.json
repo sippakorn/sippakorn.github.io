@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sippakorn Saeiao",
+    "label": "Engineering Manager",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sippakorn.saeiao@gmail.com",
+    "phone": "(+66) 85-785-7349",
+    "url": "https://sippakorn.sippbot.io/",
+    "summary": "Software engineer with over ten years of experience developing robust, secure, high-throughput, and highly available systems for the financial and insurance industries. I am passionate about designing and implementing a high-quality, performance-oriented solution architecture for mission-critical systems. My experience spans the entire software development life cycle (SDLC), including ten years in design and development, five years in automated testing, and two years in delivery toolchain enablement. In particular, I have over ten years of hands-on coding experience with C, C++, Java, and Python and four years of concentration on enterprise-scale C++ and C# projects. I have a solid foundation in underlying operating systems, algorithms, and complexity analysis. Besides technical skills, I have acquired additional skills in people management, process improvement, change management, effective communication, and public speaking. Practical knowledge in software engineering of financial data platforms and a strong background in engineering management are two vital components for success in the Lead Software Engineer (C++) position.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "18 Watchara Rd. Krabi-Yai, Mueang Krabi",
+      "postalCode": "81000",
+      "city": "Krabi",
+      "countryCode": "TH",
+      "region": "Thailand"
     },
     "profiles": [
       {
@@ -24,11 +24,47 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Liberty Mutual Insurance Group (LMG Insurance PLC.)",
+      "position": "Engineering Manager - Claims and Operations",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "Jun 2023",
+      "endDate": "Present",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Software Project Management"]
+    },
+    {
+      "name": "Allianz Technology (Austria)",
+      "position": "Senior Full-stack Developer & Technical Owner of DASH - INODIS",
+      "url": "https://example.com",
+      "startDate": "May 2022",
+      "endDate": "May 2023",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Allianz Technology (Thailand)",
+      "position": "Senior Full-stack Developer & Team Lead - T&P",
+      "url": "https://example.com",
+      "startDate": "Jan 2021",
+      "endDate": "Apr 2022",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Allianz Technology (Thailand)",
+      "position": "Advanced Full-stack Developer - Allianz Partners RSA",
+      "url": "https://example.com",
+      "startDate": "Jan 2019",
+      "endDate": "Dec 2020",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Software Engineer - Time Series Data",
+      "position": "Refinitiv (Thomson Reuters)",
+      "url": "https://example.com",
+      "startDate": "Feb 2016",
+      "endDate": "Dec 2018",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -47,15 +83,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "King Mongkut's Institute of Technology Ladkrabang (KMITL)",
+      "location": "Bangkok, THAILAND",
+      "url": "https://www.kmitl.ac.th/",
+      "area": "Information Engineering",
+      "studyType": "B.Eng",
+      "startDate": "Jun 2010",
+      "endDate": "Mar 2014",
+      "score": "(3.19/4.00)",
+      "courses": ["Electrical Engineering and Computer Science"]
     }
   ],
   "awards": [
@@ -111,29 +147,6 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
@@ -151,7 +164,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Thai",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +176,30 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Software Engineering",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Software architecture",
+        "Clean Code",
+        "Test-Driven Development",
+        "System Programming",
+        "High-frequency Trading"
+      ]
+    },
+    {
+      "name": "Computational Learning Theory",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Interpretibility",
+        "Machine Learning",
+        "Model-agnostic"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Up on request",
+      "icon": "fa-solid fa-laptop"
     }
   ]
 }
