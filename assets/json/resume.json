@@ -126,25 +126,19 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C/C++/C#", "Java", "Python", "PHP", "JavaScript (ES8)", "TypeScript"
-      ]
+      "keywords": ["C/C++/C#", "Java", "Python", "PHP", "JavaScript (ES8)", "TypeScript"]
     },
     {
       "name": "Tech Stacks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Angular","React","Node.js (Express/Nest.js)",".NET Core","Spring Framework","Laravel","HTML","CSS"
-      ]
+      "keywords": ["Angular", "React", "Node.js (Express/Nest.js)", ".NET Core", "Spring Framework", "Laravel", "HTML", "CSS"]
     },
     {
       "name": "Development Tools/Practices",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git","MVN","JIRA/Confluence","TDD","SOLID","SOAP","REST","Reactive Microservices"
-      ]
+      "keywords": ["Git", "MVN", "JIRA/Confluence", "TDD", "SOLID", "SOAP", "REST", "Reactive Microservices"]
     }
   ],
   "languages": [
@@ -163,22 +157,12 @@
     {
       "name": "Software Engineering",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Software architecture",
-        "Clean Code",
-        "Test-Driven Development",
-        "System Programming",
-        "High-frequency Trading"
-      ]
+      "keywords": ["Software architecture", "Clean Code", "Test-Driven Development", "System Programming", "High-frequency Trading"]
     },
     {
       "name": "Computational Learning Theory",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Interpretibility",
-        "Machine Learning",
-        "Model-agnostic"
-      ]
+      "keywords": ["Interpretibility", "Machine Learning", "Model-agnostic"]
     }
   ],
   "references": [
