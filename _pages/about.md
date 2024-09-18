@@ -33,7 +33,9 @@ Hello! My name is Sippakorn (สิปปกร อ่านว่า "สิบ
 I was born in 1989 in a small but lively beach town, Krabi, 800 km south of Bangkok, Thailand. I moved to Bangkok in 2007 and lived here since then. I do software engineering for a living.
 
 I am an active student of the [Theory Research Group](https://theory.cpe.ku.ac.th/) at the [Department of Computer Engineering](https://cpe.ku.ac.th/), Kasetsart University.
-My academic adviser is [Jittat Fakcharoenphol](https://theory.cpe.ku.ac.th/wiki/index.php/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C_%E0%B8%9D%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5). _I do research on computational learning theory. My focus is on model-agnostic interpretability and trustworthiness._
+My thesis adviser is [Jittat Fakcharoenphol](https://theory.cpe.ku.ac.th/wiki/index.php/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C_%E0%B8%9D%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5).
+
+_I do research on computational learning theory. My focus is on model-agnostic interpretability and trustworthiness._
 
 ### history
 
@@ -47,4 +49,4 @@ I am an amateur photographer. I am a Nikon fanboy with Z6ii as my gear.
 
 If you came here with a specific reason in mind, you're probably looking for the series of my Jupyter notebooks on machine learning and model interpretability, my writing on TDD and test automation on volatile staging environments, or a gentle guideline for new graduates looking for tech jobs in Bangkok.
 
-If you want to send me an email, please drop your inquiry at `<my_first_name>.<my_last_name>@gmail.com`. I often check my inbox (In fact, I do it twice a day)
+If you want to send me an email, please drop your inquiry at `<my_first_name>.<my_last_name>@gmail.com`.
