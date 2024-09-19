@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sippakorn.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -89,7 +89,7 @@ lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: sippakorn-saeiao # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
+medium_username: sippakorn.saeiao # your Medium username
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: 10 Pen and Paper # blog_name will be displayed in your blog page
+blog_description: my writing on random topics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -170,11 +170,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+    rss_url: https://medium.com/@sippakorn.saeiao/feed
+  - name: LinkedIn
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://www.linkedin.com/pulse/behind-all-finish-lines-always-passion-good-teamwork-sippakorn-saeiao/?trackingId=jN2Jy59hRa6b0Ys%2FuRg9cA%3D%3D
+        published_date: 2022-11-23
 
 # -----------------------------------------------------------------------------
 # Newsletter
