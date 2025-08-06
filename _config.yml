@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sippakorn
 middle_name:
-last_name: Saeiao
+last_name: Santavisith
 email: <my_first_name>.<my_last_name>@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -87,7 +87,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: sippakorn-saeiao # your LinkedIn user name
+linkedin_username: sippakorn-santavisith # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: sippakorn.saeiao # your Medium username
 orcid_id: # your ORCID ID

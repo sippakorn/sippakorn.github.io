@@ -35,7 +35,7 @@ I was born in 1989 in a small but lively beach town, Krabi, 800 km south of Bang
 I am an active student of the [Theory Research Group](https://theory.cpe.ku.ac.th/) at the [Department of Computer Engineering](https://cpe.ku.ac.th/), Kasetsart University.
 My thesis adviser is [Jittat Fakcharoenphol](https://theory.cpe.ku.ac.th/wiki/index.php/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C_%E0%B8%9D%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5).
 
-_I do research on computational learning theory. My focus is on model-agnostic interpretability and trustworthiness._
+_I do research on quantum computing. My focus is on quantum error correction codes and algebraic coding theory._
 
 ### history
 
