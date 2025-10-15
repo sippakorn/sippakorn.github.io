@@ -45,8 +45,6 @@ When I was young, I believed that I was good at math. However, I grew up and rea
 I am a seasonal marathoner. I hold my personal best record from the Khon Kaen International Marathon 2019 with a finish time of **4:29:05** hrs.
 I am an amateur photographer. I am a Nikon fanboy with Z6ii as my gear.
 
-### top
-
-If you came here with a specific reason in mind, you're probably looking for the series of my Jupyter notebooks on machine learning and model interpretability, my writing on TDD and test automation on volatile staging environments, or a gentle guideline for new graduates looking for tech jobs in Bangkok.
+### ping
 
 If you want to send me an email, please drop your inquiry at `<my_first_name>.<my_last_name>@gmail.com`.
